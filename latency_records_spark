@@ -1,4 +1,4 @@
-throughput, latency (ms)
+throughput,latency
 20000, 1407.54
 40000, 1862.0
 60000, 3236.27

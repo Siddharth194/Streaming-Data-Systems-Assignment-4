@@ -1,0 +1,740 @@
+[WM] batch=2173 wm=2025-11-20T08:08:02.099Z processing_time=2025-11-20T14:11:29.491546 rows=153460
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2174 wm=2025-11-20T08:41:17.625Z processing_time=2025-11-20T14:11:32.430287 rows=114746
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2175 wm=2025-11-20T08:41:17.943Z processing_time=2025-11-20T14:11:34.568263 rows=77776
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2176 wm=2025-11-20T08:41:18.162Z processing_time=2025-11-20T14:11:36.375322 rows=58718
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2177 wm=2025-11-20T08:41:18.329Z processing_time=2025-11-20T14:11:38.227911 rows=52094
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2178 wm=2025-11-20T08:41:18.471Z processing_time=2025-11-20T14:11:40.310224 rows=48534
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2179 wm=2025-11-20T08:41:18.608Z processing_time=2025-11-20T14:11:42.050209 rows=51886
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2180 wm=2025-11-20T08:41:18.754Z processing_time=2025-11-20T14:11:43.907879 rows=47710
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2181 wm=2025-11-20T08:41:18.870Z processing_time=2025-11-20T14:11:45.734803 rows=52336
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2182 wm=2025-11-20T08:41:19.007Z processing_time=2025-11-20T14:11:47.558535 rows=48706
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2183 wm=2025-11-20T08:41:19.761Z processing_time=2025-11-20T14:11:49.313035 rows=45498
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2184 wm=2025-11-20T08:41:24.458Z processing_time=2025-11-20T14:11:51.026335 rows=48918
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2185 wm=2025-11-20T08:41:27.186Z processing_time=2025-11-20T14:11:52.685474 rows=42326
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2186 wm=2025-11-20T08:41:27.316Z processing_time=2025-11-20T14:11:54.212563 rows=40160
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2187 wm=2025-11-20T08:41:27.428Z processing_time=2025-11-20T14:11:55.917512 rows=44300
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2188 wm=2025-11-20T08:41:27.557Z processing_time=2025-11-20T14:11:57.454115 rows=42142
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2189 wm=2025-11-20T08:41:27.658Z processing_time=2025-11-20T14:11:59.015312 rows=43398
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2190 wm=2025-11-20T08:41:27.799Z processing_time=2025-11-20T14:12:00.881704 rows=41108
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2191 wm=2025-11-20T08:41:27.906Z processing_time=2025-11-20T14:12:02.130666 rows=46958
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2192 wm=2025-11-20T08:41:28.028Z processing_time=2025-11-20T14:12:03.675823 rows=36986
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2193 wm=2025-11-20T08:41:28.134Z processing_time=2025-11-20T14:12:05.048313 rows=41054
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2194 wm=2025-11-20T08:41:28.243Z processing_time=2025-11-20T14:12:06.461135 rows=40746
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2195 wm=2025-11-20T08:41:28.362Z processing_time=2025-11-20T14:12:07.811136 rows=35152
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2196 wm=2025-11-20T08:41:28.475Z processing_time=2025-11-20T14:12:09.220819 rows=35488
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2197 wm=2025-11-20T08:41:28.572Z processing_time=2025-11-20T14:12:10.604180 rows=36702
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2198 wm=2025-11-20T08:41:28.687Z processing_time=2025-11-20T14:12:11.928922 rows=36908
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2199 wm=2025-11-20T08:41:28.811Z processing_time=2025-11-20T14:12:13.167327 rows=39186
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2200 wm=2025-11-20T08:41:28.916Z processing_time=2025-11-20T14:12:14.407238 rows=37506
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2201 wm=2025-11-20T08:41:29.033Z processing_time=2025-11-20T14:12:15.730342 rows=38272
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2202 wm=2025-11-20T08:41:29.143Z processing_time=2025-11-20T14:12:17.118407 rows=37200
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2203 wm=2025-11-20T08:41:31.025Z processing_time=2025-11-20T14:12:18.676525 rows=32068
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2204 wm=2025-11-20T08:41:34.314Z processing_time=2025-11-20T14:12:20.630651 rows=33998
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2205 wm=2025-11-20T08:41:37.213Z processing_time=2025-11-20T14:12:22.148984 rows=39438
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2206 wm=2025-11-20T08:41:37.331Z processing_time=2025-11-20T14:12:24.237891 rows=36706
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2207 wm=2025-11-20T08:41:37.436Z processing_time=2025-11-20T14:12:25.748669 rows=35838
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2208 wm=2025-11-20T08:41:37.548Z processing_time=2025-11-20T14:12:26.982741 rows=38222
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2209 wm=2025-11-20T08:41:37.640Z processing_time=2025-11-20T14:12:28.423017 rows=34828
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2210 wm=2025-11-20T08:41:37.734Z processing_time=2025-11-20T14:12:29.718315 rows=37472
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2211 wm=2025-11-20T08:41:37.830Z processing_time=2025-11-20T14:12:31.205203 rows=35594
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2212 wm=2025-11-20T08:41:37.927Z processing_time=2025-11-20T14:12:33.023379 rows=39962
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2213 wm=2025-11-20T08:41:38.029Z processing_time=2025-11-20T14:12:34.287396 rows=35764
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2214 wm=2025-11-20T08:41:38.121Z processing_time=2025-11-20T14:12:35.557750 rows=36016
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2215 wm=2025-11-20T08:41:38.219Z processing_time=2025-11-20T14:12:36.887812 rows=37120
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2216 wm=2025-11-20T08:41:38.308Z processing_time=2025-11-20T14:12:38.346512 rows=39918
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2217 wm=2025-11-20T08:41:38.414Z processing_time=2025-11-20T14:12:39.611256 rows=37870
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2218 wm=2025-11-20T08:41:38.521Z processing_time=2025-11-20T14:12:40.810910 rows=37868
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2219 wm=2025-11-20T08:41:38.627Z processing_time=2025-11-20T14:12:42.111344 rows=39702
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2220 wm=2025-11-20T08:41:38.744Z processing_time=2025-11-20T14:12:43.437336 rows=37484
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2221 wm=2025-11-20T08:41:38.841Z processing_time=2025-11-20T14:12:44.677621 rows=39364
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2222 wm=2025-11-20T08:41:38.946Z processing_time=2025-11-20T14:12:46.004943 rows=36114
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2223 wm=2025-11-20T08:41:39.038Z processing_time=2025-11-20T14:12:47.367806 rows=39034
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2224 wm=2025-11-20T08:41:39.983Z processing_time=2025-11-20T14:12:48.668745 rows=35138
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2225 wm=2025-11-20T08:41:43.377Z processing_time=2025-11-20T14:12:49.881716 rows=32800
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2226 wm=2025-11-20T08:41:46.764Z processing_time=2025-11-20T14:12:51.022130 rows=32370
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2227 wm=2025-11-20T08:41:47.075Z processing_time=2025-11-20T14:12:52.338151 rows=34106
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2228 wm=2025-11-20T08:41:47.281Z processing_time=2025-11-20T14:12:53.549080 rows=32204
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2229 wm=2025-11-20T08:41:47.383Z processing_time=2025-11-20T14:12:54.671374 rows=34620
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2230 wm=2025-11-20T08:41:47.493Z processing_time=2025-11-20T14:12:55.855412 rows=37804
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2231 wm=2025-11-20T08:41:47.597Z processing_time=2025-11-20T14:12:57.014712 rows=37504
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2232 wm=2025-11-20T08:41:47.706Z processing_time=2025-11-20T14:12:58.225699 rows=35666
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2233 wm=2025-11-20T08:41:47.811Z processing_time=2025-11-20T14:12:59.356508 rows=34960
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2234 wm=2025-11-20T08:41:47.904Z processing_time=2025-11-20T14:13:00.518187 rows=41124
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2235 wm=2025-11-20T08:41:48.021Z processing_time=2025-11-20T14:13:01.586465 rows=32950
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2236 wm=2025-11-20T08:41:48.117Z processing_time=2025-11-20T14:13:02.740686 rows=35314
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2237 wm=2025-11-20T08:41:48.215Z processing_time=2025-11-20T14:13:03.870923 rows=31760
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2238 wm=2025-11-20T08:41:48.300Z processing_time=2025-11-20T14:13:04.957971 rows=34312
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2239 wm=2025-11-20T08:41:48.386Z processing_time=2025-11-20T14:13:06.244463 rows=35042
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2240 wm=2025-11-20T08:41:48.482Z processing_time=2025-11-20T14:13:07.400985 rows=33694
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2241 wm=2025-11-20T08:41:48.573Z processing_time=2025-11-20T14:13:08.604336 rows=37594
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2242 wm=2025-11-20T08:41:48.666Z processing_time=2025-11-20T14:13:09.659502 rows=34766
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2243 wm=2025-11-20T08:41:48.760Z processing_time=2025-11-20T14:13:10.863165 rows=36238
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2244 wm=2025-11-20T08:41:48.849Z processing_time=2025-11-20T14:13:11.958163 rows=36418
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2245 wm=2025-11-20T08:41:48.968Z processing_time=2025-11-20T14:13:13.097370 rows=34486
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2246 wm=2025-11-20T08:41:49.060Z processing_time=2025-11-20T14:13:14.341064 rows=37032
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2247 wm=2025-11-20T08:41:51.591Z processing_time=2025-11-20T14:13:15.413568 rows=34548
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2248 wm=2025-11-20T08:41:54.860Z processing_time=2025-11-20T14:13:16.569560 rows=30994
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2249 wm=2025-11-20T08:41:57.016Z processing_time=2025-11-20T14:13:17.602032 rows=31210
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2250 wm=2025-11-20T08:41:57.228Z processing_time=2025-11-20T14:13:18.768065 rows=30892
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2251 wm=2025-11-20T08:41:57.316Z processing_time=2025-11-20T14:13:19.882039 rows=34862
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2252 wm=2025-11-20T08:41:57.410Z processing_time=2025-11-20T14:13:20.995073 rows=38248
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2253 wm=2025-11-20T08:41:57.506Z processing_time=2025-11-20T14:13:22.062244 rows=32450
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2254 wm=2025-11-20T08:41:57.592Z processing_time=2025-11-20T14:13:23.311010 rows=36038
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2255 wm=2025-11-20T08:41:57.686Z processing_time=2025-11-20T14:13:24.533248 rows=35054
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2256 wm=2025-11-20T08:41:57.790Z processing_time=2025-11-20T14:13:25.656276 rows=34650
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2257 wm=2025-11-20T08:41:57.880Z processing_time=2025-11-20T14:13:26.914112 rows=34760
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2258 wm=2025-11-20T08:41:57.970Z processing_time=2025-11-20T14:13:28.036458 rows=35502
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2259 wm=2025-11-20T08:41:58.070Z processing_time=2025-11-20T14:13:29.125259 rows=33752
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2260 wm=2025-11-20T08:41:58.149Z processing_time=2025-11-20T14:13:30.311822 rows=35758
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2261 wm=2025-11-20T08:41:58.250Z processing_time=2025-11-20T14:13:31.541849 rows=36712
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2262 wm=2025-11-20T08:41:58.337Z processing_time=2025-11-20T14:13:32.658534 rows=36584
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2263 wm=2025-11-20T08:41:58.432Z processing_time=2025-11-20T14:13:33.827874 rows=32916
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2264 wm=2025-11-20T08:41:58.518Z processing_time=2025-11-20T14:13:34.981971 rows=39194
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2265 wm=2025-11-20T08:41:58.639Z processing_time=2025-11-20T14:13:36.132379 rows=35806
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2266 wm=2025-11-20T08:41:58.740Z processing_time=2025-11-20T14:13:37.260213 rows=39122
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2267 wm=2025-11-20T08:41:58.856Z processing_time=2025-11-20T14:13:38.406426 rows=35214
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2268 wm=2025-11-20T08:41:58.946Z processing_time=2025-11-20T14:13:39.511486 rows=34014
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2269 wm=2025-11-20T08:41:59.046Z processing_time=2025-11-20T14:13:40.598953 rows=34754
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2270 wm=2025-11-20T08:42:01.727Z processing_time=2025-11-20T14:13:41.749786 rows=32752
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2271 wm=2025-11-20T08:42:05.256Z processing_time=2025-11-20T14:13:42.919255 rows=31792
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2272 wm=2025-11-20T08:42:07.035Z processing_time=2025-11-20T14:13:43.985677 rows=34490
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2273 wm=2025-11-20T08:42:07.183Z processing_time=2025-11-20T14:13:45.151266 rows=30106
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2274 wm=2025-11-20T08:42:07.285Z processing_time=2025-11-20T14:13:46.325006 rows=35482
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2275 wm=2025-11-20T08:42:07.390Z processing_time=2025-11-20T14:13:47.388665 rows=36616
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2276 wm=2025-11-20T08:42:07.479Z processing_time=2025-11-20T14:13:48.558254 rows=32234
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2277 wm=2025-11-20T08:42:07.568Z processing_time=2025-11-20T14:13:49.666044 rows=36730
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2278 wm=2025-11-20T08:42:07.680Z processing_time=2025-11-20T14:13:50.751138 rows=31462
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2279 wm=2025-11-20T08:42:07.759Z processing_time=2025-11-20T14:13:51.947130 rows=37998
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2280 wm=2025-11-20T08:42:07.865Z processing_time=2025-11-20T14:13:53.127716 rows=34202
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2281 wm=2025-11-20T08:42:07.961Z processing_time=2025-11-20T14:13:54.257036 rows=32930
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2282 wm=2025-11-20T08:42:08.054Z processing_time=2025-11-20T14:13:55.442489 rows=36596
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2283 wm=2025-11-20T08:42:08.153Z processing_time=2025-11-20T14:13:56.650572 rows=37720
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2284 wm=2025-11-20T08:42:08.266Z processing_time=2025-11-20T14:13:57.760095 rows=37428
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2285 wm=2025-11-20T08:42:08.368Z processing_time=2025-11-20T14:13:58.868674 rows=32800
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2286 wm=2025-11-20T08:42:08.460Z processing_time=2025-11-20T14:14:00.094005 rows=32482
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2287 wm=2025-11-20T08:42:08.545Z processing_time=2025-11-20T14:14:01.196762 rows=33090
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2288 wm=2025-11-20T08:42:08.649Z processing_time=2025-11-20T14:14:02.259776 rows=34850
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2289 wm=2025-11-20T08:42:08.742Z processing_time=2025-11-20T14:14:03.412346 rows=33444
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2290 wm=2025-11-20T08:42:08.836Z processing_time=2025-11-20T14:14:04.545976 rows=36572
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2291 wm=2025-11-20T08:42:08.936Z processing_time=2025-11-20T14:14:05.689559 rows=34714
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2292 wm=2025-11-20T08:42:09.031Z processing_time=2025-11-20T14:14:06.928510 rows=34270
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2293 wm=2025-11-20T08:42:11.262Z processing_time=2025-11-20T14:14:08.084809 rows=32726
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2294 wm=2025-11-20T08:42:14.704Z processing_time=2025-11-20T14:14:09.279685 rows=35116
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2295 wm=2025-11-20T08:42:17.028Z processing_time=2025-11-20T14:14:10.412277 rows=31464
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2296 wm=2025-11-20T08:42:17.124Z processing_time=2025-11-20T14:14:11.540253 rows=31382
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2297 wm=2025-11-20T08:42:17.287Z processing_time=2025-11-20T14:14:12.678359 rows=32362
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2298 wm=2025-11-20T08:42:17.372Z processing_time=2025-11-20T14:14:13.804677 rows=32300
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2299 wm=2025-11-20T08:42:17.464Z processing_time=2025-11-20T14:14:15.041045 rows=36412
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2300 wm=2025-11-20T08:42:17.570Z processing_time=2025-11-20T14:14:16.128418 rows=33818
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2301 wm=2025-11-20T08:42:17.669Z processing_time=2025-11-20T14:14:17.224683 rows=32452
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2302 wm=2025-11-20T08:42:17.764Z processing_time=2025-11-20T14:14:18.312442 rows=31720
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2303 wm=2025-11-20T08:42:17.849Z processing_time=2025-11-20T14:14:19.410136 rows=35446
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2304 wm=2025-11-20T08:42:17.965Z processing_time=2025-11-20T14:14:20.542049 rows=34890
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2305 wm=2025-11-20T08:42:18.069Z processing_time=2025-11-20T14:14:21.606310 rows=35764
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2306 wm=2025-11-20T08:42:18.170Z processing_time=2025-11-20T14:14:22.661474 rows=34226
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2307 wm=2025-11-20T08:42:18.258Z processing_time=2025-11-20T14:14:23.936035 rows=33754
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2308 wm=2025-11-20T08:42:18.348Z processing_time=2025-11-20T14:14:25.103826 rows=32250
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2309 wm=2025-11-20T08:42:18.443Z processing_time=2025-11-20T14:14:26.217731 rows=35676
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2310 wm=2025-11-20T08:42:18.529Z processing_time=2025-11-20T14:14:27.367618 rows=35716
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2311 wm=2025-11-20T08:42:18.634Z processing_time=2025-11-20T14:14:28.510422 rows=34950
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2312 wm=2025-11-20T08:42:18.736Z processing_time=2025-11-20T14:14:29.669442 rows=38386
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2313 wm=2025-11-20T08:42:18.832Z processing_time=2025-11-20T14:14:30.893258 rows=37696
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2314 wm=2025-11-20T08:42:18.936Z processing_time=2025-11-20T14:14:32.025073 rows=31246
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2315 wm=2025-11-20T08:42:19.026Z processing_time=2025-11-20T14:14:33.122906 rows=37664
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2316 wm=2025-11-20T08:42:19.604Z processing_time=2025-11-20T14:14:34.236760 rows=32102
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2317 wm=2025-11-20T08:42:22.227Z processing_time=2025-11-20T14:14:35.373568 rows=29616
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 10
+}
+[WM] batch=2318 wm=2025-11-20T08:42:25.083Z processing_time=2025-11-20T14:14:36.509614 rows=29286
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2319 wm=2025-11-20T08:42:27.023Z processing_time=2025-11-20T14:14:37.668392 rows=34396
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}
+[WM] batch=2320 wm=2025-11-20T08:42:27.268Z processing_time=2025-11-20T14:14:38.772695 rows=29732
+[SINK] {
+  "description" : "org.apache.spark.sql.kafka010.KafkaSourceProvider$KafkaTable@34aa1e9e",
+  "numOutputRows" : 0
+}

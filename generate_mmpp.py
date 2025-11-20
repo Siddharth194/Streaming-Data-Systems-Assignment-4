@@ -144,6 +144,8 @@ def generate_bursty_events(T=1000, iterations=2, d_H=2, d_L=8, factor=4.5):
                     "event_type": random.choice(event_types),
                     "event_time": event_time,
                     "ip_address": random.choice(ip_pool),
+                    "campaign_id": cid,
+                    "production_timestamp": time.time()*1000
                 }
                 all_events.append(event)
                 if event_time > max_event_time:
