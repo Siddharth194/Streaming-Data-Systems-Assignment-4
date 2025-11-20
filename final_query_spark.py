@@ -12,6 +12,7 @@ from pyspark.sql.functions import (
 from pyspark.sql.types import StructType, StructField, StringType, LongType
 from pyspark.sql.streaming import StreamingQueryListener
 import datetime
+from dateutil import parser
 
 
 # --------------------------------------
@@ -69,6 +70,31 @@ class WatermarkKafkaListener(StreamingQueryListener):
 
 
 spark.streams.addListener(WatermarkKafkaListener())
+
+class LatencyListener(StreamingQueryListener):
+    def onQueryStarted(self, event):
+        pass
+
+    def onQueryTerminated(self, event):
+        pass
+
+    def onQueryProgress(self, event):
+        progress = event.progress
+        
+        wm = progress.eventTime.get("watermark")
+        pt = progress.timestamp
+        
+        if wm:
+            wm_clean = wm.replace("Z", "+00:00")
+            pt_clean = pt.replace("Z", "+00:00")
+
+            wm_dt = datetime.datetime.strptime(wm_clean, "%Y-%m-%dT%H:%M:%S.%f%z")
+            pt_dt = datetime.datetime.strptime(pt_clean, "%Y-%m-%dT%H:%M:%S.%f%z")
+
+            latency_ms = (pt_dt - wm_dt).total_seconds() * 1000
+            print(f"[Query Latency] {latency_ms:.2f} ms")
+
+spark.streams.addListener(LatencyListener())
 
 
 # --------------------------------------
