@@ -1,5 +1,5 @@
 # filename containing the numbers
-file_path = "average_latency_spark"
+file_path = "average_latency_flink"
 
 # read numbers and calculate average
 with open(file_path, "r") as f:

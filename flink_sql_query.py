@@ -61,6 +61,8 @@ t_env.execute_sql(f"""
     CREATE TABLE results (
         window_start STRING,
         campaign_id INT,
+        clicks INT,
+        view_count INT,
         ctr DOUBLE,
         max_produce_time BIGINT
     ) WITH (
@@ -76,8 +78,8 @@ INSERT INTO results
 SELECT
         CAST(TUMBLE_START(event_ts, INTERVAL '10' SECOND) AS STRING) AS window_start,
         campaign_id,
-        CAST(SUM(CASE WHEN event_type = 'click' THEN 1 ELSE 0 END) AS DOUBLE) AS clicks,
-        (SUM(CASE WHEN event_type = 'view' THEN 1 ELSE 0 END) +1) AS views,
+        CAST(SUM(CASE WHEN event_type = 'click' THEN 1 ELSE 0 END) AS INT) AS clicks,
+        CAST((SUM(CASE WHEN event_type = 'view' THEN 1 ELSE 0 END) + 1) AS INT)  AS view_count,
         CAST(SUM(CASE WHEN event_type = 'click' THEN 1 ELSE 0 END) AS DOUBLE) /
         (SUM(CASE WHEN event_type = 'view' THEN 1 ELSE 0 END) + 1) AS ctr,
         MAX(production_timestamp) AS max_produce_time           -- renamed from produce_time
