@@ -10,7 +10,7 @@ t_env = TableEnvironment.create(env_settings)
 t_env.get_config().set("table.exec.source.idle-timeout", "40 s")
 
 # --- Dependency Configuration ---
-KAFKA_CONNECTOR_JAR = "/home/siddharth/StreamingDataSystems/assn_4/flink-sql-connector-kafka-4.0.1-2.0.jar"
+KAFKA_CONNECTOR_JAR = "/home/siddharth/StreamingDataSystems/assn_4/Streaming-Data-Systems-Assignment-4/flink-sql-connector-kafka-4.0.1-2.0.jar"
 t_env.get_config().set("pipeline.jars", f"file://{KAFKA_CONNECTOR_JAR}")
 
 # --- Constants ---
@@ -44,7 +44,7 @@ CREATE TABLE ad_events (
   'properties.group.id' = 'flink_consumer_group',
   'scan.startup.mode' = 'earliest-offset',
   'format' = 'json',
-  'json.ignore-parse-errors' = 'true',
+  'json.ignore-parse-errors' = 'true'
 );
 
 """)
@@ -76,6 +76,8 @@ INSERT INTO results
 SELECT
         CAST(TUMBLE_START(event_ts, INTERVAL '10' SECOND) AS STRING) AS window_start,
         campaign_id,
+        CAST(SUM(CASE WHEN event_type = 'click' THEN 1 ELSE 0 END) AS DOUBLE) AS clicks,
+        (SUM(CASE WHEN event_type = 'view' THEN 1 ELSE 0 END) +1) AS views,
         CAST(SUM(CASE WHEN event_type = 'click' THEN 1 ELSE 0 END) AS DOUBLE) /
         (SUM(CASE WHEN event_type = 'view' THEN 1 ELSE 0 END) + 1) AS ctr,
         MAX(production_timestamp) AS max_produce_time           -- renamed from produce_time

@@ -69,9 +69,12 @@ for window_start, recs in records_by_window.items():
     print(f"\nWindow: {window_start}")
     print(f"  Max produce time (ms): {max_produce_ts}")
 
-    for r in recs:
-        kafka_ts = r["kafka_timestamp"]
-        latency_ms = kafka_ts - max_produce_ts
+    with open('average_latency_flink','a') as f:
+        for r in recs:
+            kafka_ts = r["kafka_timestamp"]
+            latency_ms = kafka_ts - max_produce_ts
 
-        print(f"    Kafka Append: {kafka_ts}")
-        print(f"    Latency: {latency_ms} ms")
+            print(f"    Kafka Append: {kafka_ts}")
+            print(f"    Latency: {latency_ms} ms")
+
+            f.write(f"{latency_ms}\n")
